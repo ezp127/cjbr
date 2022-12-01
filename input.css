@@ -1,8 +1,8 @@
 
 /* 
 Minify for production: 
-$ npx tailwindcss -i ./input.css -o ./public/output.css --watch
-$ npx tailwindcss -i ./input.css -o ./public/output.css --minify
+$ npx tailwindcss -i ./input.css -o ./output.css --watch
+$ npx tailwindcss -i ./input.css -o ./output.css --minify
 */
 
 @import "tailwindcss/base";
