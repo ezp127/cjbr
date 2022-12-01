@@ -1,0 +1,10 @@
+
+/* 
+Minify for production: 
+$ npx tailwindcss -i ./input.css -o ./public/output.css --watch
+$ npx tailwindcss -i ./input.css -o ./public/output.css --minify
+*/
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
